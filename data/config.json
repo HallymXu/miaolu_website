@@ -135,7 +135,7 @@
       "button": "发送消息"
     },
     "formSubmission": {
-      "targetEmail": "hallymxu",
+      "targetEmail": "hallymxu@gmail.com",
       "successMessage": "感谢您的留言，我们会尽快回复您！",
       "errorMessage": "发送失败，请稍后再试或直接联系我们。"
     }
