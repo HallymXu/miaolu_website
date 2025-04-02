@@ -1,0 +1,173 @@
+{
+  "company": {
+    "name": "合肥淼录教育咨询服务有限公司",
+    "creditCode": "91340111MA8QWW0E1J",
+    "responsible": "张琦玮",
+    "phone": "15216777223",
+    "email": "contact@miaolu-edu.com",
+    "address": "安徽省合肥市包河区庐州大道800号万达银座B座1827室",
+    "workingHours": "周一至周五: 9:00 - 18:00"
+  },
+  "studios": {
+    "main": {
+      "name": "淼录教育",
+      "slogan": "专业教育咨询服务",
+      "description": "淼录教育下设三个专业工作室，为学生和专业人士提供全方位的学术、留学与就业服务",
+      "wechat": "miaolu-edu"
+    },
+    "academic": {
+      "name": "云起工作室",
+      "slogan": "专业学术辅导服务",
+      "description": "由具有丰富学术经验的专业人士组成，致力于为学生和研究人员提供学术支持和指导",
+      "wechat": "yunqi-studio"
+    },
+    "abroad": {
+      "name": "淼录留学",
+      "slogan": "专业留学申请服务",
+      "description": "提供专业的留学咨询和申请服务，帮助学生实现海外深造梦想",
+      "wechat": "miaolu-abroad"
+    },
+    "job": {
+      "name": "硕果工作室",
+      "slogan": "专业就业辅导服务",
+      "description": "提供就业指导和职业发展服务，帮助求职者找到理想的工作机会",
+      "wechat": "shuoguo-job"
+    }
+  },
+  "hero": {
+    "title": "专业教育咨询服务",
+    "subtitle": "提供学术、留学与就业相关的咨询服务，协助您规划学业与职业发展",
+    "buttons": {
+      "primary": "了解服务",
+      "secondary": "联系我们"
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "description": "淼录教育提供学术、留学与就业相关的咨询服务，协助您规划学业与职业发展",
+    "items": [
+      {
+        "id": "academic",
+        "title": "学术咨询",
+        "description": "云起工作室提供学术相关咨询，协助您了解学术发展方向",
+        "features": [
+          {
+            "title": "学术规划咨询",
+            "description": "提供学术发展方向的参考建议，协助您了解相关领域"
+          },
+          {
+            "title": "研究方法参考",
+            "description": "分享研究方法和学术写作的一般性参考信息"
+          },
+          {
+            "title": "学术资源介绍",
+            "description": "介绍公开可获取的学术资源和参考材料"
+          },
+          {
+            "title": "学术交流信息",
+            "description": "分享学术交流和研讨的相关信息"
+          }
+        ]
+      },
+      {
+        "id": "abroad",
+        "title": "留学咨询",
+        "description": "淼录留学提供留学相关咨询服务，分享留学申请一般性信息",
+        "features": [
+          {
+            "title": "留学信息咨询",
+            "description": "分享留学相关的一般性信息和参考建议"
+          },
+          {
+            "title": "院校信息介绍",
+            "description": "介绍各国院校和专业的公开信息"
+          },
+          {
+            "title": "申请流程咨询",
+            "description": "分享留学申请的一般流程和注意事项"
+          },
+          {
+            "title": "签证信息咨询",
+            "description": "提供签证申请的公开信息和一般性建议"
+          }
+        ]
+      },
+      {
+        "id": "job",
+        "title": "就业咨询",
+        "description": "硕果工作室提供就业相关咨询服务，分享职业发展一般性信息",
+        "features": [
+          {
+            "title": "职业信息咨询",
+            "description": "分享不同职业领域的公开信息和发展趋势"
+          },
+          {
+            "title": "简历建议",
+            "description": "提供简历准备的一般性建议和参考"
+          },
+          {
+            "title": "面试参考信息",
+            "description": "分享面试准备的一般性技巧和注意事项"
+          },
+          {
+            "title": "职业发展参考",
+            "description": "提供职业发展的一般性参考信息"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "关于我们",
+    "description": "淼录教育致力于为学生和专业人士提供教育相关咨询服务",
+    "story": "淼录教育成立于2020年，由一群关注教育发展的专业人士共同创立。我们关注教育领域的发展动态，希望分享相关知识和经验，为学生和专业人士提供参考信息。",
+    "mission": "我们的咨询服务涉及学术、留学和就业等多个领域，面向本科生、研究生和专业人士，提供相关领域的一般性信息和参考建议。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "如果您有任何问题或需求，欢迎随时联系我们",
+    "text": "无论您是有学术问题需要咨询，还是对我们的服务感兴趣，都可以通过以下方式联系我们。我们会尽快回复您的咨询。",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话",
+      "message": "留言",
+      "button": "发送消息"
+    },
+    "formSubmission": {
+      "targetEmail": "hallymxu",
+      "successMessage": "感谢您的留言，我们会尽快回复您！",
+      "errorMessage": "发送失败，请稍后再试或直接联系我们。"
+    }
+  },
+  "footer": {
+    "description": "淼录教育致力于为学生和专业人士提供教育相关咨询服务。",
+    "quickLinks": {
+      "title": "快速链接",
+      "links": [
+        {"name": "首页", "url": "#home"},
+        {"name": "服务项目", "url": "#services"},
+        {"name": "学术咨询", "url": "#academic"},
+        {"name": "留学咨询", "url": "#abroad"},
+        {"name": "就业咨询", "url": "#job"}
+      ]
+    },
+    "services": {
+      "title": "咨询项目",
+      "links": [
+        {"name": "学术规划咨询", "url": "#academic"},
+        {"name": "留学信息咨询", "url": "#abroad"},
+        {"name": "职业信息咨询", "url": "#job"},
+        {"name": "简历建议", "url": "#job"},
+        {"name": "面试参考信息", "url": "#job"}
+      ]
+    },
+    "newsletter": {
+      "title": "关注我们",
+      "description": "关注我们的动态，获取教育相关资讯和信息",
+      "placeholder": "您的邮箱地址",
+      "button": "关注"
+    },
+    "copyright": "© 2025 合肥淼录教育咨询服务有限公司. 统一社会信用代码: 91340111MA8QWW0E1J. 保留所有权利."
+  }
+}
